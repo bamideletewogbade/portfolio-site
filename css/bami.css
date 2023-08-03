@@ -422,30 +422,30 @@ body {
   height: 100%;
   right: 0;
   top: 0;
-  background: url(../img/go.jpg);
+  background: url(../img/BamBam.png);
   background-size: cover;
 }
 
 #MyWorksWrap #WepPageContainer #WebPageB {
-  background: url(../img/maybe3.png);
+  background: url(../img/recipeFood.png);
   background-size: cover;
   transform: translatex(100%);
 }
 
 #MyWorksWrap #WepPageContainer #WebPageC {
-  background: url(../img/maybe4.png);
+  background: url(../img/beyondGh.png);
   background-size: cover;
   transform: translatex(100%);
 }
 
 #MyWorksWrap #WepPageContainer #WebPageD {
-  background: url(../img/WebPageD.jpg);
+  background: url(../img/randomDog.png);
   background-size: cover;
   transform: translatex(100%);
 }
 
 #MyWorksWrap #WepPageContainer #WebPageE {
-  background: url(../img/WebPageE.jpg);
+  background: url(../img/buildCV.png);
   background-size: cover;
   transform: translatex(100%);
 }

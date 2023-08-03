@@ -126,8 +126,8 @@ function MyWorksScrollTrigger() { // MyWorksScrollTrigger---------------------
             opacity: 0, y: "100%", ease: 'power3.out', duration: 2.2, stagger: "0.5",
         }, 1.3)
         .add(function () { // My Works WebPageA PageLinks---------------------
-            $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "https://codepen.io/icodeayush/pen/bGgWmyL");
-            $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "https://icodeayush.github.io/Dora");
+            $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "");
+            $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "");
         }, 0);
 }
 
@@ -160,8 +160,8 @@ $('#MyWorksWrap nav .WebPageNavA').mouseenter(function () {
         background: '#808080', ease: 'power4.out', duration: 1.3,
     })
     // My Works WebPageA PageLinks---------------------
-    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "https://codepen.io/icodeayush/pen/bGgWmyL");
-    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "https://icodeayush.github.io/Dora");
+    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "");
+    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "");
 });
 $('#MyWorksWrap nav .WebPageNavB').mouseenter(function () {
     // My Works WebPageB Title Mouseenter Animation---------------------
@@ -192,8 +192,8 @@ $('#MyWorksWrap nav .WebPageNavB').mouseenter(function () {
         background: '#808080', ease: 'power4.out', duration: 1.3,
     })
     // My Works WebPageB PageLinks---------------------
-    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "https://codepen.io/icodeayush/pen/QWdgXgB");
-    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "https://icodeayush.github.io/BeeSoft");
+    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "");
+    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "");
 });
 $('#MyWorksWrap nav .WebPageNavC').mouseenter(function () {
     // My Works WebPageC Title Mouseenter Animation---------------------
@@ -224,8 +224,8 @@ $('#MyWorksWrap nav .WebPageNavC').mouseenter(function () {
         background: '#808080', ease: 'power4.out', duration: 1.3,
     })
     // My Works WebPageC PageLinks---------------------
-    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "https://codepen.io/icodeayush/pen/PoWjrra");
-    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "https://icodeayush.github.io/TravelNow");
+    $("#MyWorksWrap #PageLinks a:nth-child(1)").attr("href", "");
+    $("#MyWorksWrap #PageLinks a:nth-child(2)").attr("href", "");
 });
 $('#MyWorksWrap nav .WebPageNavD').mouseenter(function () {
     // My Works WebPageD Title Mouseenter Animation---------------------
